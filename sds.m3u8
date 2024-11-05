@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
-http://mynetworks.info//live/mahmuood55/01221774487m/84228.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360
-http://mynetworks.info//live/mahmuood55/01221774487m/84230.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=640x480
+https://xtream.akomov.com/live/akotvapp/akotvapp/60.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=720x576
+https://xtream.akomov.com/live/akotvapp/akotvapp/42.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1280x720
+https://xtream.akomov.com/live/akotvapp/akotvapp/24.m3u8
